@@ -2,6 +2,7 @@
 # include <iostream>
 
 // Following is an alternative to using std::[something]
+
 //using namespace std;
 
 enum Token{
