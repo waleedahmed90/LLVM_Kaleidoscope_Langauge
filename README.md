@@ -1,5 +1,10 @@
 # KALEIDOSCOPE LANGUAGE COMPILER USING LLVM
 
+
+"my-lang.cc" contains Lexer and Parsers in the same file.
+
+FILE_STATUS: Incomplete
+
 ## REFERENCES
 ### Kaleidoscope Language Front-end tutorial documentation
 https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
